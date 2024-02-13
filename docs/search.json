@@ -1,121 +1,79 @@
 [
   {
-    "objectID": "Week2XRG.html#talk-overview",
-    "href": "Week2XRG.html#talk-overview",
-    "title": "Week 2: XaringanPrac • LWX",
-    "section": "Talk overview",
-    "text": "Talk overview\n\nSensor\n\nPart 1: Summary\nPart 2: Application\nPart 3: Reflection"
-  },
-  {
-    "objectID": "Week2XRG.html#who-am-i",
-    "href": "Week2XRG.html#who-am-i",
-    "title": "Week 2: XaringanPrac • LWX",
-    "section": "Who am i",
-    "text": "Who am i\n\n\n\nStudent in Urban Spatial Science at CASA, UCL\nlearn MSc modules in:\n\nGeographic information systems and science\nRemotely sensing cities and environments\n\nskills:\n\nprogramming languages such as java, python, R, sql…\nArcgis, Qgis, Arcgis online"
-  },
-  {
     "objectID": "Week2XRG.html#part-1-summary",
     "href": "Week2XRG.html#part-1-summary",
-    "title": "Week 2: XaringanPrac • LWX",
+    "title": "Week 2: Landset • LWX",
     "section": "Part 1: Summary",
-    "text": "Part 1: Summary"
+    "text": "Part 1: Summary\n• The summary criterion will refer to the summary of the sensor you have selected – Landset"
   },
   {
-    "objectID": "Week2XRG.html#what-do-we-mean",
-    "href": "Week2XRG.html#what-do-we-mean",
-    "title": "Week 2: XaringanPrac • LWX",
-    "section": "What do we mean",
-    "text": "What do we mean\n• The summary criterion will refer to the summary of the sensor you have selected – Landset\nLandsat imagery\n\nLandsat imagery is the longest free temporal image repository of consistent medium resolution data. It collects data at each point on Earth each every 16 days (temporal resolution) in a raster grid composed of 30 by 30 m cells (spatial resolution). Geographical analysis and concepts are becoming ever more entwined with remote sensing and Earth observation.\n\n\nSource: CASA0023\n\nAccess the data\n\nTo access the Landsat data we will use in this practical you can need to sign up for a free account at: https://earthexplorer.usgs.gov/\n\n\nSource: usgs"
-  },
-  {
-    "objectID": "Week2XRG.html#section",
-    "href": "Week2XRG.html#section",
-    "title": "Week 2: XaringanPrac • LWX",
-    "section": "",
-    "text": "image for Landset (website language: Chinese)"
-  },
-  {
-    "objectID": "Week2XRG.html#section-1",
-    "href": "Week2XRG.html#section-1",
-    "title": "Week 2: XaringanPrac • LWX",
-    "section": "",
-    "text": "Landsat 8\n\nLandsat 8 is a satellite in the Landsat program, which is a series of Earth-observing satellites operated by the United States Geological Survey (USGS) and NASA. Landsat 8, launched in 2013, is the latest satellite in this series, and it carries the Operational Land Imager (OLI) and Thermal Infrared Sensor (TIRS) instruments\n\n\nSource: UK Government\n\nLandsat 1\n\nLandsat 1, was launched on July 23, 1972. It marked the beginning of the Landsat program, which has been instrumental in Earth observation and remote sensing\n\n\nSource: Wikipedia"
+    "objectID": "Week2XRG.html#summary",
+    "href": "Week2XRG.html#summary",
+    "title": "Week 2: Landset • LWX",
+    "section": "summary",
+    "text": "summary\nLandsat imagery\n\n\n\nLandsat imagery is the longest free temporal image repository of consistent medium resolution data. It collects data at each point on Earth each every 16 days (temporal resolution) in a raster grid composed of 30 by 30 m cells (spatial resolution). Geographical analysis and concepts are becoming ever more entwined with remote sensing and Earth observation.\n\n\n\nSource: CASA0023\n\nAccess the data\n\n\nTo access the Landsat data we will use in this practical you can need to sign up for a free account at: https://earthexplorer.usgs.gov/\n\n\n\nSource: usgs\n\n\n\n\n\n\nimage for Landset (website language: Chinese)"
   },
   {
     "objectID": "Week2XRG.html#part-2-application",
     "href": "Week2XRG.html#part-2-application",
-    "title": "Week 2: XaringanPrac • LWX",
+    "title": "Week 2: Landset • LWX",
     "section": "Part 2: Application",
     "text": "Part 2: Application"
   },
   {
     "objectID": "Week2XRG.html#what-is-application-of-the-landset-8",
     "href": "Week2XRG.html#what-is-application-of-the-landset-8",
-    "title": "Week 2: XaringanPrac • LWX",
+    "title": "Week 2: Landset • LWX",
     "section": "What is Application of the Landset 8?",
-    "text": "What is Application of the Landset 8?\n\n\n\nLand Use Monitoring: Tracks changes in land use and cover over time.\nEnvironmental Monitoring: Captures data on natural disasters and assesses environmental impact.\nAgricultural Management: Monitors crop health, aids precision agriculture, and estimates yields.\nWater Resources Management: Tracks water bodies, assesses water quality, and manages water resources.\nForestry: Monitors forest cover, detects deforestation, and assesses forest health.\nUrban Planning: Assists in monitoring urban growth, infrastructure changes, and their environmental impact.\nClimate Studies: Contributes to climate research by providing data on land surface temperature and snow cover.\nDisaster Response: Provides high-resolution images for assessing damage caused by natural disasters.\nScientific Research: Supports research in ecology, geology, hydrology, and atmospheric sciences.\nMapping and Cartography: Essential for creating detailed and up-to-date maps, including land cover and terrain features."
+    "text": "What is Application of the Landset 8?\n\n\n\n\nLand Use Monitoring: Tracks changes in land use and cover over time.\nEnvironmental Monitoring: Captures data on natural disasters and assesses environmental impact.\nAgricultural Management: Monitors crop health, aids precision agriculture, and estimates yields.\nWater Resources Management: Tracks water bodies, assesses water quality, and manages water resources.\nForestry: Monitors forest cover, detects deforestation, and assesses forest health.\nUrban Planning: Assists in monitoring urban growth, infrastructure changes, and their environmental impact.\nClimate Studies: Contributes to climate research by providing data on land surface temperature and snow cover.\nDisaster Response: Provides high-resolution images for assessing damage caused by natural disasters.\nMapping and Cartography: Essential for creating detailed and up-to-date maps, including land cover and terrain features."
   },
   {
     "objectID": "Week2XRG.html#what-is-general-application-of-landset-8",
     "href": "Week2XRG.html#what-is-general-application-of-landset-8",
-    "title": "Week 2: XaringanPrac • LWX",
+    "title": "Week 2: Landset • LWX",
     "section": "What is general application of Landset 8?",
-    "text": "What is general application of Landset 8?\nOverall\nLandsat 8, launched in 2013, is a pivotal Earth-observing satellite widely utilized for applications such as monitoring land use changes, assessing environmental impact, managing agriculture by monitoring crop health and yields, tracking water resources, evaluating forestry conditions, aiding urban planning, contributing to climate studies, supporting disaster response with high-resolution imagery, facilitating scientific research across various disciplines, and serving as a crucial tool in mapping and cartography for detailed and up-to-date geographic information."
+    "text": "What is general application of Landset 8?\nOverall\n\nLandsat 8, launched in 2013, is a pivotal Earth-observing satellite widely utilized for applications such as monitoring land use changes, assessing environmental impact, managing agriculture by monitoring crop health and yields, tracking water resources, evaluating forestry conditions, aiding urban planning, contributing to climate studies, supporting disaster response with high-resolution imagery, facilitating scientific research across various disciplines, and serving as a crucial tool in mapping and cartography for detailed and up-to-date geographic information.\nThe continuous acquisition of data by Landsat 8, along with its moderate spatial resolution (30 meters for most bands), spectral capabilities, and global coverage, makes it a versatile tool for a wide range of applications in Earth observation and remote sensing."
   },
   {
     "objectID": "Week2XRG.html#application-of-landset-8",
     "href": "Week2XRG.html#application-of-landset-8",
-    "title": "Week 2: XaringanPrac • LWX",
+    "title": "Week 2: Landset • LWX",
     "section": "application of Landset 8",
     "text": "application of Landset 8"
   },
   {
     "objectID": "Week2XRG.html#application-of-landset-8-1",
     "href": "Week2XRG.html#application-of-landset-8-1",
-    "title": "Week 2: XaringanPrac • LWX",
+    "title": "Week 2: Landset • LWX",
     "section": "application of Landset 8",
     "text": "application of Landset 8\n \nLand Use Monitoring: Landsat 8 imagery is widely used to monitor changes in land use and land cover over time. This is crucial for urban planning, agriculture, forestry, and environmental management\n\n\n+"
   },
   {
     "objectID": "Week2XRG.html#application-of-landset-8-2",
     "href": "Week2XRG.html#application-of-landset-8-2",
-    "title": "Week 2: XaringanPrac • LWX",
+    "title": "Week 2: Landset • LWX",
     "section": "application of Landset 8",
-    "text": "application of Landset 8\n \nLand Use Monitoring: Landsat 8 imagery is widely used to monitor changes in land use and land cover over time. This is crucial for urban planning, agriculture, forestry, and environmental management\n\n\n+\n\n\n \nEnvironmental Monitoring: The satellite is used to monitor environmental changes, including deforestation, desertification, and the impacts of natural disasters such as floods and wildfires."
+    "text": "application of Landset 8\n \n\nLand Use Monitoring: Landsat 8 imagery is widely used to monitor changes in land use and land cover over time. This is crucial for urban planning, agriculture, forestry, and environmental management\n\n\n\n+\n\n\n \nEnvironmental Monitoring: The satellite is used to monitor environmental changes, including deforestation, desertification, and the impacts of natural disasters such as floods and wildfires."
   },
   {
     "objectID": "Week2XRG.html#application-of-landset-8-3",
     "href": "Week2XRG.html#application-of-landset-8-3",
-    "title": "Week 2: XaringanPrac • LWX",
+    "title": "Week 2: Landset • LWX",
     "section": "application of Landset 8",
-    "text": "application of Landset 8\n \nLand Use Monitoring: Landsat 8 imagery is widely used to monitor changes in land use and land cover over time. This is crucial for urban planning, agriculture, forestry, and environmental management\n\n\n+\n\n\n \nEnvironmental Monitoring: The satellite is used to monitor environmental changes, including deforestation, desertification, and the impacts of natural disasters such as floods and wildfires.\n\n\n=\n\n\n \nUrban Planning: Landsat 8 data is employed in urban planning and development. It aids in monitoring urban growth, assessing infrastructure changes, and studying the impact of urbanization on the environment.\n\nSource: Smart Cities, European Comission"
-  },
-  {
-    "objectID": "Week2XRG.html#overall",
-    "href": "Week2XRG.html#overall",
-    "title": "Week 2: XaringanPrac • LWX",
-    "section": "Overall:",
-    "text": "Overall:\nThe continuous acquisition of data by Landsat 8, along with its moderate spatial resolution (30 meters for most bands), spectral capabilities, and global coverage, makes it a versatile tool for a wide range of applications in Earth observation and remote sensing."
+    "text": "application of Landset 8\n \n\nLand Use Monitoring: Landsat 8 imagery is widely used to monitor changes in land use and land cover over time. This is crucial for urban planning, agriculture, forestry, and environmental management\n\n\n\n+\n\n\n \n\nEnvironmental Monitoring: The satellite is used to monitor environmental changes, including deforestation, desertification, and the impacts of natural disasters such as floods and wildfires.\n\n\n\n+\n\n\n \n\nUrban Planning: Landsat 8 data is employed in urban planning and development. It aids in monitoring urban growth, assessing infrastructure changes, and studying the impact of urbanization on the environment.\n\n\nSource: Smart Cities, European Comission"
   },
   {
     "objectID": "Week2XRG.html#limitation",
     "href": "Week2XRG.html#limitation",
-    "title": "Week 2: XaringanPrac • LWX",
+    "title": "Week 2: Landset • LWX",
     "section": "Limitation",
-    "text": "Limitation\nPart 3: reflection?"
+    "text": "Limitation\nPart 3: reflection\n\nDespite some limitations, Landsat 8 remains a valuable tool for a wide range of applications, contributing significantly to our understanding of Earth’s dynamics and changes over time."
   },
   {
     "objectID": "Week2XRG.html#limitations",
     "href": "Week2XRG.html#limitations",
-    "title": "Week 2: XaringanPrac • LWX",
+    "title": "Week 2: Landset • LWX",
     "section": "Limitations:",
-    "text": "Limitations:\n\nSpatial Resolution: While Landsat 8 provides valuable data, its spatial resolution (30 meters for most bands) may not be sufficient for certain applications requiring very high detail, such as urban planning at a local scale.\nTemporal Resolution: Landsat 8 has a revisit time of 16 days, which means it may not capture events or changes on a daily or weekly basis. For some applications, more frequent revisit times are necessary.\nLimited Spectral Bands: Landsat 8 has fewer spectral bands compared to some other remote sensing satellites, which limits its ability to capture certain types of information, especially in the infrared and shortwave infrared regions."
-  },
-  {
-    "objectID": "Week2XRG.html#conclusion",
-    "href": "Week2XRG.html#conclusion",
-    "title": "Week 2: XaringanPrac • LWX",
-    "section": "Conclusion",
-    "text": "Conclusion\n\nDespite these limitations, Landsat 8 remains a valuable tool for a wide range of applications, contributing significantly to our understanding of Earth’s dynamics and changes over time.\n\n\n\n\nWeek 2: XaringanPrac • LWX"
+    "text": "Limitations:\n\n\nSpatial Resolution: While Landsat 8 provides valuable data, its spatial resolution (30 meters for most bands) may not be sufficient for certain applications requiring very high detail, such as urban planning at a local scale.\nTemporal Resolution: Landsat 8 has a revisit time of 16 days, which means it may not capture events or changes on a daily or weekly basis. For some applications, more frequent revisit times are necessary.\nLimited Spectral Bands: Landsat 8 has fewer spectral bands compared to some other remote sensing satellites, which limits its ability to capture certain types of information, especially in the infrared and shortwave infrared regions.\nCloud Cover: Cloud cover can hinder the acquisition of clear imagery, impacting the availability of data for certain regions and time periods.\nData Processing: Analyzing Landsat data requires specialized software and expertise, and the large volume of data can pose challenges for storage and processing.\n\n\n\n\n\nWeek 2: PPT • LWX"
   }
 ]
