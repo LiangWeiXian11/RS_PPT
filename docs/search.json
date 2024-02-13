@@ -1,0 +1,1311 @@
+[
+  {
+    "objectID": "Sheffield_conference.html#talk-overview",
+    "href": "Sheffield_conference.html#talk-overview",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "Talk overview",
+    "text": "Talk overview\n\n\n\nRationale for teaching and research agenda points\nWhy bother with it?\nModule and assessment changes\nOutcomes\nFuture work"
+  },
+  {
+    "objectID": "Sheffield_conference.html#who-am-i",
+    "href": "Sheffield_conference.html#who-am-i",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "Who am i",
+    "text": "Who am i\n\nLecturer in Spatial Data Science and Visualization at CASA, UCL\nHuman Geographer\nRun our main MSc programme\nLead MSc modules in:\n\nGeographic information systems and science\nRemotely sensing cities and environments"
+  },
+  {
+    "objectID": "Sheffield_conference.html#agendas",
+    "href": "Sheffield_conference.html#agendas",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "Agendas",
+    "text": "Agendas\nTeaching\n\nEmpower students to become leading activists in urban spatial science\nEquip students with spatial skills for the interpretation of urban data leading to data-informed decisions\nInstill critical thought based on a solid theoretical and technical foundation to see through buzz words and hype that are often associated with smart cities / urban analytics."
+  },
+  {
+    "objectID": "Sheffield_conference.html#section",
+    "href": "Sheffield_conference.html#section",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "",
+    "text": "Research\n\nTo have meaningful real world impact on the sustainability of our cities\nOperatialising emerging geo-spatial tools for decision making\nPlace the needs and constraints of decision makers at the heart of all work"
+  },
+  {
+    "objectID": "Sheffield_conference.html#section-1",
+    "href": "Sheffield_conference.html#section-1",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "",
+    "text": "“Redistricting is democracy at work” - Tom Hofeller"
+  },
+  {
+    "objectID": "Sheffield_conference.html#being-able-to-reproduce-my-own-content-is-essential-to-these",
+    "href": "Sheffield_conference.html#being-able-to-reproduce-my-own-content-is-essential-to-these",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "Being able to reproduce my own content is essential to these",
+    "text": "Being able to reproduce my own content is essential to these"
+  },
+  {
+    "objectID": "Sheffield_conference.html#what-led-me-here",
+    "href": "Sheffield_conference.html#what-led-me-here",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "What led me here?",
+    "text": "What led me here?\n\n\n\nLecture with Carl Howe\n\n\n2017, 90% of the data in the world today has been created in the last two years alone, at 2.5 quintillion bytes of data a day! - IBM"
+  },
+  {
+    "objectID": "Sheffield_conference.html#data-is-often-misrepresented.",
+    "href": "Sheffield_conference.html#data-is-often-misrepresented.",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "Data is often misrepresented….",
+    "text": "Data is often misrepresented…."
+  },
+  {
+    "objectID": "Sheffield_conference.html#ok-what-about-geographic-data",
+    "href": "Sheffield_conference.html#ok-what-about-geographic-data",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "Ok, what about geographic data",
+    "text": "Ok, what about geographic data"
+  },
+  {
+    "objectID": "Sheffield_conference.html#a-shifting-landscape",
+    "href": "Sheffield_conference.html#a-shifting-landscape",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "A shifting landscape",
+    "text": "A shifting landscape\n\n\nPaper: Opening practice: supporting reproducibility and critical spatial data science\n\nA comparison of Geographical Weighted regression across:\n\n4 open software packages\n2 black box / commercial implementations\n\n\n\n\n\nAll of the implementations were tested with the same input data. They all gave the same results except the ESRI/ArcGIS implementation (Li 2018), and although ESRI provide help for the GWR tools, the actual coding is closed—the underlying code is not revealed\n\n\nSource: Brunsdon and Comber, 2021"
+  },
+  {
+    "objectID": "Sheffield_conference.html#a-slight-tangent",
+    "href": "Sheffield_conference.html#a-slight-tangent",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "A slight tangent",
+    "text": "A slight tangent"
+  },
+  {
+    "objectID": "Sheffield_conference.html#who-has-made-our-boundary-data",
+    "href": "Sheffield_conference.html#who-has-made-our-boundary-data",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "Who has made our boundary data?",
+    "text": "Who has made our boundary data?"
+  },
+  {
+    "objectID": "Sheffield_conference.html#who-has-made-manipulated-our-boundary-data",
+    "href": "Sheffield_conference.html#who-has-made-manipulated-our-boundary-data",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "Who has made manipulated our boundary data?",
+    "text": "Who has made manipulated our boundary data?"
+  },
+  {
+    "objectID": "Sheffield_conference.html#who-has-manipulated-our-boundary-data",
+    "href": "Sheffield_conference.html#who-has-manipulated-our-boundary-data",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "Who has manipulated our boundary data?",
+    "text": "Who has manipulated our boundary data?\nRedlining\n\n\n\n1930s – American Home Owner’s Loan Corporation – prevent missed payments…residential security maps based on race\n\nPeople abandon redlined areas\nCan’t refinance\nLess property tax for services\n\n\n\n\n\n\nLos Angeles Redlining"
+  },
+  {
+    "objectID": "Sheffield_conference.html#who-has-manipulated-our-boundary-data-1",
+    "href": "Sheffield_conference.html#who-has-manipulated-our-boundary-data-1",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "Who has manipulated our boundary data?",
+    "text": "Who has manipulated our boundary data?\nGerrymandering\n\n\nEvery 10 years electoral districts are re-drawn “redistricting”– Thomas Hofeller (republican) = PACK and CRACK\n\nPACK = put all the democrat voters in 1 district\nCRACK = sprinkle them out so they never have majority"
+  },
+  {
+    "objectID": "Sheffield_conference.html#section-3",
+    "href": "Sheffield_conference.html#section-3",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "",
+    "text": "Source: Allison Horst"
+  },
+  {
+    "objectID": "Sheffield_conference.html#how-do-i-teach-reproducibility-and-data-bias-awareness",
+    "href": "Sheffield_conference.html#how-do-i-teach-reproducibility-and-data-bias-awareness",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "How do I teach reproducibility and data bias awareness",
+    "text": "How do I teach reproducibility and data bias awareness\n\n\n\n\n1. Lead by example\n\n\n\n\n\n1b. Listen to Alumni / employers\n\n\n\n\n\n1c. Learn by doing\n\n\n\n\n\n2. Don’t assess it, make it mandatory for the assessment*"
+  },
+  {
+    "objectID": "Sheffield_conference.html#lead-by-example-1",
+    "href": "Sheffield_conference.html#lead-by-example-1",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "Lead by example",
+    "text": "Lead by example\n\nTraditional labs and were distributed in pdfs, word documents and powerpoints.\nUsed ArcGIS 💰"
+  },
+  {
+    "objectID": "Sheffield_conference.html#lead-by-example-2",
+    "href": "Sheffield_conference.html#lead-by-example-2",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "1. Lead by example",
+    "text": "1. Lead by example\nProblems:\n\n\nStatic\nRequire updates with software / data\n\n\n\n\nMaterial is in a pdf\nNot easily searchable, limits it to a one time use\n\n\n\n\nA lot of time invested\nOnly used by students on the module\n\n\n\n\nalumni, academia and industry value programmatic and importantly reproducible GIS analysis"
+  },
+  {
+    "objectID": "Sheffield_conference.html#b.-listen-to-alumni-employers-1",
+    "href": "Sheffield_conference.html#b.-listen-to-alumni-employers-1",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "1b. Listen to Alumni / employers",
+    "text": "1b. Listen to Alumni / employers"
+  },
+  {
+    "objectID": "Sheffield_conference.html#design-and-outputs",
+    "href": "Sheffield_conference.html#design-and-outputs",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "Design and outputs",
+    "text": "Design and outputs"
+  },
+  {
+    "objectID": "Sheffield_conference.html#design-and-outputs-1",
+    "href": "Sheffield_conference.html#design-and-outputs-1",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "Design and outputs",
+    "text": "Design and outputs\n\nCourse divided into two parts:\n\nPart 1: GIS tools\nPart 2: GIS analysis\n\n\nIn part 2 we shift from subject based to problem based learning….\nEach practical answers a question….\n\n\nWhat are the factors that might lead to variation in Average GCSE point scores across the city?"
+  },
+  {
+    "objectID": "Sheffield_conference.html#design-and-outputs-2",
+    "href": "Sheffield_conference.html#design-and-outputs-2",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "Design and outputs",
+    "text": "Design and outputs\n\nIt is not enough to simply give students some material and hope they will immediately learn it. Learning happens by doing\n\n\n\nWeekly homework that we dedicate time to discussing\n\nWeek 1-5 tasks\nWeek 6-9 practice exam"
+  },
+  {
+    "objectID": "Sheffield_conference.html#design-and-output",
+    "href": "Sheffield_conference.html#design-and-output",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "Design and output",
+    "text": "Design and output\nPart 1: GIS tools…\n\nYou need calculate the average percent of science students (in all) grades per county meeting the required standards and produce a map to show where the Country averages are above or below the State of Washington average."
+  },
+  {
+    "objectID": "Sheffield_conference.html#section-5",
+    "href": "Sheffield_conference.html#section-5",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "",
+    "text": "Practice exam (weeks 5-10), 10%\nFinal exam (6 hour open book), 90%"
+  },
+  {
+    "objectID": "Sheffield_conference.html#make-it-mandatory-for-the-assessment",
+    "href": "Sheffield_conference.html#make-it-mandatory-for-the-assessment",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "2. Make it mandatory for the assessment",
+    "text": "2. Make it mandatory for the assessment\nPrevious iterations\n\nYour task is to carry out a mini research project which answers a pertinent or topical geo-spatial question\n\n\n\n\n\n\n\n\nNote\n\n\nStudents struggled to come up with a question, source data and apply it\n\nPlagiarism\nPoor applications\nVery unbalanced reports"
+  },
+  {
+    "objectID": "Sheffield_conference.html#what-are-we-assessing",
+    "href": "Sheffield_conference.html#what-are-we-assessing",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "What are we assessing?",
+    "text": "What are we assessing?"
+  },
+  {
+    "objectID": "Sheffield_conference.html#can-they-apply-the-tools-methods-with-different-scenarios-and-data",
+    "href": "Sheffield_conference.html#can-they-apply-the-tools-methods-with-different-scenarios-and-data",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "Can they apply the tools / methods with different scenarios and data ?",
+    "text": "Can they apply the tools / methods with different scenarios and data ?"
+  },
+  {
+    "objectID": "Sheffield_conference.html#section-6",
+    "href": "Sheffield_conference.html#section-6",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "",
+    "text": "GI systems and science • Andy MacLachlan"
+  },
+  {
+    "objectID": "Sheffield_conference.html#make-it-mandatory-for-the-assessment-1",
+    "href": "Sheffield_conference.html#make-it-mandatory-for-the-assessment-1",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "2. Make it mandatory for the assessment",
+    "text": "2. Make it mandatory for the assessment\nPart 2: GIS analysis\n\n\nExample practice question\n\nNew York City wish to conduct a study that aims to prevent people being evicted through understand possible related factors.You have been enlisted as a consultant and tasked to conduct an analysis of their data from 2020.\n\nData:\n\nList of evictions\nNew York City community districts"
+  },
+  {
+    "objectID": "Sheffield_conference.html#make-it-mandatory-for-the-assessment-2",
+    "href": "Sheffield_conference.html#make-it-mandatory-for-the-assessment-2",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "2. Make it mandatory for the assessment",
+    "text": "2. Make it mandatory for the assessment"
+  },
+  {
+    "objectID": "Sheffield_conference.html#make-it-mandatory-for-the-assessment-3",
+    "href": "Sheffield_conference.html#make-it-mandatory-for-the-assessment-3",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "2. Make it mandatory for the assessment",
+    "text": "2. Make it mandatory for the assessment\nGitHub classroom - setup\n\nCreate a template repository “submission”\nImport to an “organisation” - shared folder that staff can access\nGitHub classroom creates a URL for the template"
+  },
+  {
+    "objectID": "Sheffield_conference.html#make-it-mandatory-for-the-assessment-4",
+    "href": "Sheffield_conference.html#make-it-mandatory-for-the-assessment-4",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "2. Make it mandatory for the assessment",
+    "text": "2. Make it mandatory for the assessment\nStudents\n\nClick the URL and generates a new repository\nStaff can see their work and when they make edits (commit / push)"
+  },
+  {
+    "objectID": "Sheffield_conference.html#make-it-mandatory-for-the-assessment-5",
+    "href": "Sheffield_conference.html#make-it-mandatory-for-the-assessment-5",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "2. Make it mandatory for the assessment",
+    "text": "2. Make it mandatory for the assessment\nEnd of exam\n\nBulk download through the GitHub classroom desktop application\nRun the student’s code locally\nSee how often the student edited the code"
+  },
+  {
+    "objectID": "Sheffield_conference.html#outcomes",
+    "href": "Sheffield_conference.html#outcomes",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "Outcomes",
+    "text": "Outcomes\nLess (almost no) plagiarism\nMarks have improved\nAll students learn to use reproducibility tools\nThe tool is not directly assessed\nGlobal use and interaction with the resource"
+  },
+  {
+    "objectID": "Sheffield_conference.html#current-advancements",
+    "href": "Sheffield_conference.html#current-advancements",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "Current advancements",
+    "text": "Current advancements\n\n\nNew term 2 module - Remotely sensing cities and environments\n\n\n\n\nPresentation hosted online - Xaringan\nWeekly online portfolio - Quarto"
+  },
+  {
+    "objectID": "Sheffield_conference.html#tools-are-expected-not-assessed",
+    "href": "Sheffield_conference.html#tools-are-expected-not-assessed",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "Tools are expected not assessed",
+    "text": "Tools are expected not assessed"
+  },
+  {
+    "objectID": "Sheffield_conference.html#tools-are-expected-not-assessed-1",
+    "href": "Sheffield_conference.html#tools-are-expected-not-assessed-1",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "Tools are expected not assessed",
+    "text": "Tools are expected not assessed"
+  },
+  {
+    "objectID": "Sheffield_conference.html#conclusion",
+    "href": "Sheffield_conference.html#conclusion",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "Conclusion",
+    "text": "Conclusion\n\n\nLead by example\n\n\nLearn by doing\n\n\nTools become the norm\n\n\nRespond to industry requirements\n\n\nConsider what needs assessing"
+  },
+  {
+    "objectID": "Sheffield_conference.html#section-4",
+    "href": "Sheffield_conference.html#section-4",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "",
+    "text": "Source: Allison Horst"
+  },
+  {
+    "objectID": "Sheffield_conference.html#being-able-to-reproduce-content-is-essential-to-these",
+    "href": "Sheffield_conference.html#being-able-to-reproduce-content-is-essential-to-these",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "Being able to reproduce content is essential to these",
+    "text": "Being able to reproduce content is essential to these"
+  },
+  {
+    "objectID": "Sheffield_conference.html#c.-design-and-outputs",
+    "href": "Sheffield_conference.html#c.-design-and-outputs",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "1c. Design and outputs",
+    "text": "1c. Design and outputs\n\nIt is not enough to simply give students some material and hope they will immediately learn it. Learning happens by doing\n\n\n\nWeekly homework that we dedicate time to discussing\n\nWeek 1-5 tasks\nWeek 6-9 practice exam"
+  },
+  {
+    "objectID": "Sheffield_conference.html#c.-design-and-output",
+    "href": "Sheffield_conference.html#c.-design-and-output",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "1c. Design and output",
+    "text": "1c. Design and output\nPart 1: GIS tools…\n\nYou need calculate the average percent of science students (in all) grades per county meeting the required standards and produce a map to show where the Country averages are above or below the State of Washington average."
+  },
+  {
+    "objectID": "Sheffield_conference.html#section-2",
+    "href": "Sheffield_conference.html#section-2",
+    "title": "Reproducible geographical information Systems and Science",
+    "section": "",
+    "text": "“Redistricting is democracy at work” - Tom Hofeller"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#talk-overview",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#talk-overview",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Talk overview",
+    "text": "Talk overview\n\nDiscipline background\n\nPart 1: Urban systems science?\nPart 2: Spatial data\n\n\nPedagogic challenges\n\nPart 3: Data contamination / manipulation\nPart 4: Big data\nPart 5: Reproducibility\nPart 6: Teaching criticality, data bias, reproducibility"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#who-am-i",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#who-am-i",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Who am i",
+    "text": "Who am i\n\n\n\nLecturer in Spatial Data Science and Visualization at CASA, UCL\nLead MSc modules in:\n\nGeographic information systems and science\nRemotely sensing cities and environments\n\nResearch:\n\nApplications of data for city decisions / sustainability\nBig data for allocating funding"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#agendas",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#agendas",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Agendas",
+    "text": "Agendas\nTeaching\n\nEmpower students to become leading activists in urban spatial science\nEquip students with spatial skills for the interpretation of urban data leading to data-informed decisions\nInstill critical thought based on a solid theoretical and technical foundation to see through buzz words and hype that are often associated with smart cities / urban analytics."
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#being-able-to-reproduce-content-is-essential-to-these",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#being-able-to-reproduce-content-is-essential-to-these",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Being able to reproduce content is essential to these",
+    "text": "Being able to reproduce content is essential to these"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#what-led-me-here",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#what-led-me-here",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "What led me here?",
+    "text": "What led me here?\n\n\n\nLecture with Carl Howe\n\n\n2017, 90% of the data in the world today has been created in the last two years alone, at 2.5 quintillion bytes of data a day! - IBM"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#data-is-often-misrepresented.",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#data-is-often-misrepresented.",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Data is often misrepresented….",
+    "text": "Data is often misrepresented…."
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#ok-what-about-geographic-data",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#ok-what-about-geographic-data",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Ok, what about geographic data",
+    "text": "Ok, what about geographic data"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#a-shifting-landscape",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#a-shifting-landscape",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "A shifting landscape",
+    "text": "A shifting landscape\n\n\nPaper: Opening practice: supporting reproducibility and critical spatial data science\n\nA comparison of Geographical Weighted regression across:\n\n4 open software packages\n2 black box / commercial implementations\n\n\n\n\nAll of the implementations were tested with the same input data.\n\n\nThey all gave the same results except the ESRI/ArcGIS implementation (Li 2018)\n\n\nand although ESRI provide help for the GWR tools, the actual coding is closed—the underlying code is not revealed\n\nSource: Brunsdon and Comber, 2021"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#a-slight-tangent",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#a-slight-tangent",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "A slight tangent",
+    "text": "A slight tangent"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#who-has-made-our-boundary-data",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#who-has-made-our-boundary-data",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Who has made our boundary data?",
+    "text": "Who has made our boundary data?"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#who-has-made-manipulated-our-boundary-data",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#who-has-made-manipulated-our-boundary-data",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Who has made manipulated our boundary data?",
+    "text": "Who has made manipulated our boundary data?"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#who-has-manipulated-our-boundary-data",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#who-has-manipulated-our-boundary-data",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Who has manipulated our boundary data?",
+    "text": "Who has manipulated our boundary data?\nGerrymandering\n\n\nEvery 10 years electoral districts are re-drawn “redistricting”– Thomas Hofeller (republican) = PACK and CRACK\n\nPACK = put all the democrat voters in 1 district\nCRACK = sprinkle them out so they never have majority"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#who-has-manipulated-our-boundary-data-1",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#who-has-manipulated-our-boundary-data-1",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Who has manipulated our boundary data?",
+    "text": "Who has manipulated our boundary data?\nGerrymandering\n\n\nEvery 10 years electoral districts are re-drawn “redistricting”– Thomas Hofeller (republican) = PACK and CRACK\n\nPACK = put all the democrat voters in 1 district\nCRACK = sprinkle them out so they never have majority"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#section-2",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#section-2",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "",
+    "text": "“Redistricting is democracy at work” - Tom Hofeller"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#how-do-i-teach-reproducibility-and-data-bias-awareness",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#how-do-i-teach-reproducibility-and-data-bias-awareness",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "How do I teach reproducibility and data bias awareness",
+    "text": "How do I teach reproducibility and data bias awareness\n\n\n\n\n1. Lead by example\n\n\n\n\n\n1b. Listen to Alumni / employers\n\n\n\n\n\n1c. Learn by doing\n\n\n\n\n\n2. Don’t assess it, make it mandatory for the assessment*"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#lead-by-example-1",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#lead-by-example-1",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "1. Lead by example",
+    "text": "1. Lead by example"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#lead-by-example-2",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#lead-by-example-2",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "1. Lead by example",
+    "text": "1. Lead by example\nProblems:\n\n\nStatic\nRequire updates with software / data\n\n\n\n\nMaterial is in a pdf\nNot easily searchable, limits it to a one time use\n\n\n\n\nA lot of time invested\nOnly used by students on the module\n\n\n\n\nalumni, academia and industry value programmatic and importantly reproducible GIS analysis"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#b.-listen-to-alumni-employers-1",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#b.-listen-to-alumni-employers-1",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "1b. Listen to Alumni / employers",
+    "text": "1b. Listen to Alumni / employers"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#design-and-outputs",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#design-and-outputs",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Design and outputs",
+    "text": "Design and outputs\n\nCourse divided into two parts:\n\nPart 1: GIS tools\nPart 2: GIS analysis\n\n\nIn part 2 we shift from subject based to problem based learning….\nEach practical answers a question….\n\n\nWhat are the factors that might lead to variation in Average GCSE point scores across the city?"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#design-and-outputs-1",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#design-and-outputs-1",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Design and outputs",
+    "text": "Design and outputs\n\nCourse divided into two parts:\n\nPart 1: GIS tools\nPart 2: GIS analysis\n\n\nIn part 2 we shift from subject based to problem based learning….\nEach practical answers a question….\n\n\nWhat are the factors that might lead to variation in Average GCSE point scores across the city?"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#c.-design-and-outputs",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#c.-design-and-outputs",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "1c. Design and outputs",
+    "text": "1c. Design and outputs\n\nLearning happens by doing\n\n\n\nWeekly homework that we dedicate time to discussing\n\nWeek 1-5 tasks\nWeek 6-9 practice exam"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#c.-design-and-output",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#c.-design-and-output",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "1c. Design and output",
+    "text": "1c. Design and output\n\n\nPart 1: GIS tools…subject based learning\n\nYou need calculate the average percent of science students (in all) grades per county meeting the required standards\n\n\n\n\nPart 2: GIS analysis… problem based learning\nEach practical answers a question….\n\nWhat are the factors that might lead to variation in Average GCSE point scores across the city?"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#section-4",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#section-4",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "",
+    "text": "Demystifying the Parquet File Format"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#make-it-mandatory-for-the-assessment",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#make-it-mandatory-for-the-assessment",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "2. Make it mandatory for the assessment",
+    "text": "2. Make it mandatory for the assessment\nPart 2: GIS analysis, example practice question\n\nNew York City wish to conduct a study that aims to prevent people being evicted through understand possible related factors.You have been enlisted as a consultant and tasked to conduct an analysis of their data from 2020.\n\nData:\n\nList of evictions\nNew York City community districts"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#what-are-we-assessing",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#what-are-we-assessing",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "What are we assessing?",
+    "text": "What are we assessing?\n\n\n\n\nCan students apply the tools / methods with different scenarios and data ?\n\n\n\n\n\nCan students critique the process"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#can-they-apply-the-tools-methods-with-different-scenarios-and-data",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#can-they-apply-the-tools-methods-with-different-scenarios-and-data",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Can they apply the tools / methods with different scenarios and data ?",
+    "text": "Can they apply the tools / methods with different scenarios and data ?"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#section-5",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#section-5",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "",
+    "text": "Demystifying the Parquet File Format"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#make-it-mandatory-for-the-assessment-1",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#make-it-mandatory-for-the-assessment-1",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "2. Make it mandatory for the assessment",
+    "text": "2. Make it mandatory for the assessment\nDISCUSS\n\nHow were the evictions recorded\nWhy were there limited evictions during 2020/ then a sudden peak? - COVID ban on evictions\nHow can identifying spatially related factors to evictions be useful\nAre there certain areas that have higher evictions than others - why might this be?\nWhat assumption does the data make\nWhat assumptions does the model make"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#make-it-mandatory-for-the-assessment-2",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#make-it-mandatory-for-the-assessment-2",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "2. Make it mandatory for the assessment",
+    "text": "2. Make it mandatory for the assessment\nStudents\n\nClick the URL and generates a new repository\nStaff can see their work and when they make edits (commit / push)"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#make-it-mandatory-for-the-assessment-3",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#make-it-mandatory-for-the-assessment-3",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "2. Make it mandatory for the assessment",
+    "text": "2. Make it mandatory for the assessment\nGitHub classroom - setup\n\nCreate a template repository “submission”\nImport to an “organisation” - shared folder that staff can access\nGitHub classroom creates a URL for the template"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#make-it-mandatory-for-the-assessment-4",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#make-it-mandatory-for-the-assessment-4",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "2. Make it mandatory for the assessment",
+    "text": "2. Make it mandatory for the assessment\nStudents\n\nClick the URL and generates a new repository\nStaff can see their work and when they make edits (commit / push)"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#make-it-mandatory-for-the-assessment-5",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#make-it-mandatory-for-the-assessment-5",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "2. Make it mandatory for the assessment",
+    "text": "2. Make it mandatory for the assessment\nEnd of exam\n\nBulk download through the GitHub classroom desktop application\nRun the student’s code locally\nSee how often the student edited the code"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#outcomes",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#outcomes",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Outcomes",
+    "text": "Outcomes\nLess (almost no) plagiarism\nMarks have improved\nAll students learn to use reproducibility tools\nThe tool is not directly assessed\nGlobal use and interaction with the resource"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#current-advancements",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#current-advancements",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Current advancements",
+    "text": "Current advancements\n\n\nNew term 2 module - Remotely sensing cities and environments\n\n\n\n\nPresentation hosted online - Xaringan\nWeekly online portfolio - Quarto"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#tools-are-expected-not-assessed",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#tools-are-expected-not-assessed",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Tools are expected not assessed",
+    "text": "Tools are expected not assessed"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#tools-are-expected-not-assessed-1",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#tools-are-expected-not-assessed-1",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Tools are expected not assessed",
+    "text": "Tools are expected not assessed"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#conclusion",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#conclusion",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Conclusion",
+    "text": "Conclusion\n\nIt is essential to use data to inform decisions…BUT we must develop a critical awareness of:\n\nHow the data has been created\nHow the boundary data has been created\nWhat the agenda was for collecting the data\n\nIn addition we must recognize that:\n\nData is a snapshot / sample of the population\nAnalysis attempts to model the world - it is never perfect.\n\n\n\nScientists must have a say in the future of cities, McPhearson 2016\n\n\n\n\nPedagogic challenges 2: urban systems science • Andy MacLachlan"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#section-6",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#section-6",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "",
+    "text": "New York City Taxi and Limousine Commission (TLC) all records from Yellow and Green Cabs"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#what-are-urban-systems",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#what-are-urban-systems",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "What are Urban systems",
+    "text": "What are Urban systems\n\nA set of towns and cities that can be considered linked together by various forms of social and economic interaction"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#urban-systems",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#urban-systems",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Urban systems",
+    "text": "Urban systems"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#urban-science",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#urban-science",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Urban science",
+    "text": "Urban science\n\nUrban science is an interdisciplinary field that studies diverse urban issues and problems"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#what-do-we-mean",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#what-do-we-mean",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "What do we mean",
+    "text": "What do we mean\nUrban systems\n\nA set of towns and cities [or functions within cities] that can be considered linked together by various forms of social and economic interaction\n\n\nSource: Oxford reference\n\nSystems thinking\n\nMethods aimed at studying a system through its collective behavioral features\n\n\nSource: Cristiano et al. 2020"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#urban-systems-science",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#urban-systems-science",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Urban systems science",
+    "text": "Urban systems science"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#science-of-cities",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#science-of-cities",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Science of cities",
+    "text": "Science of cities\n\nThe science of cities – using evidence to understand how cities work – is forever expanding"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#smart-cities",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#smart-cities",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Smart cities",
+    "text": "Smart cities\n\nUnited Nations Thematic Areas\n\nInclusive cities - equal access to services, increase safety\nSustainable cities - limited resources in most efficient manner\nAdaptable cities - mitigate and adapt, air pollution, climate change\n\n\nSource: Smart Cities"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#how-smart-are-cities",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#how-smart-are-cities",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "How smart are cities?",
+    "text": "How smart are cities?"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#section",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#section",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "",
+    "text": "Tools for Systems Thinkers: The 6 Fundamental Concepts of Systems Thinking"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#section-3",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#section-3",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "",
+    "text": "“Redistricting is democracy at work” - Tom Hofeller"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#section-7",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#section-7",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "",
+    "text": "Pedagogic challenges 2: urban systems science • Andy MacLachlan"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#section-1",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#section-1",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "",
+    "text": "Science of cities\n\nThe science of cities – using evidence to understand how cities work – is forever expanding\n\n\nSource: UK Government\n\nUrban science\n\nUrban science is an interdisciplinary field that studies diverse urban issues and problems\n\n\nSource: Wikipedia"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#section-8",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#section-8",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "",
+    "text": "Pedagogic challenges 2: urban systems science • Andy MacLachlan"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#urban-systems-science-1",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#urban-systems-science-1",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Urban systems science",
+    "text": "Urban systems science\n \nUrban Systems: Cities [or functions within cities] that can be considered linked together [there is a relationship between them]\n\n\n+"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#section-9",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#section-9",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "",
+    "text": "Pedagogic challenges 2: urban systems science • Andy MacLachlan"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#section-10",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#section-10",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "",
+    "text": "Pedagogic challenges 2: urban systems science • Andy MacLachlan"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#section-11",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#section-11",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "",
+    "text": "Pedagogic challenges 2: urban systems science • Andy MacLachlan"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#urban-systems-science-2",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#urban-systems-science-2",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Urban systems science",
+    "text": "Urban systems science\n \nUrban Systems: Cities [or functions within cities] that can be considered linked together [there is a relationship between them]\n\n\n+\n\n\n \nUrban Science: Urban issues and problems"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#urban-systems-science-3",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#urban-systems-science-3",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Urban systems science",
+    "text": "Urban systems science\n \nUrban Systems: Cities [or functions within cities] that can be considered linked together [there is a relationship between them]\n\n\n+\n\n\n \nUrban Science: Urban issues and problems\n\n\n=\n\n\n \nSmart Cities: networks and services are made more efficient with the use of digital solutions for the benefit of its inhabitants and business.\n\nSource: Smart Cities, European Comission"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#urban-systems-science-4",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#urban-systems-science-4",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Urban systems science",
+    "text": "Urban systems science\n \nUrban Systems: Cities [or functions within cities] that can be considered linked together [there is a relationship between them]\n\n\n+\n\n\n \nUrban Science: Urban issues and problems\n\n\n=\n\n\n \nSmart Cities: networks and services are made more efficient with the use of digital solutions for the benefit of its inhabitants and business.\n\nSource: Smart Cities, European Comission"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#smart-cities-1",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#smart-cities-1",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Smart cities",
+    "text": "Smart cities\n\nUnited Nations Thematic Areas\n\nInclusive cities - equal access to services, increase safety\nSustainable cities - limited resources in most efficient manner\nAdaptable cities - mitigate and adapt, air pollution, climate change\n\n\nSource: Smart Cities"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#smart-cities-2",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#smart-cities-2",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Smart cities",
+    "text": "Smart cities\nData science approach:\n\nUpdated from Grolemund & Wickham's classis R4DS schematic, envisioned by Dr. Julia Lowndes for her 2019 useR! keynote talk and illustrated by Allison Horst. Source: Allison Horst data science and stats illustrations"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#urban-system-science-approach",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#urban-system-science-approach",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Urban system science approach:",
+    "text": "Urban system science approach:\n\n\n\nUpdated from Grolemund & Wickham's classis R4DS schematic, envisioned by Dr. Julia Lowndes for her 2019 useR! keynote talk and illustrated by Allison Horst. Source: Allison Horst data science and stats illustrations\n\n\n\nThe same as regular data science but with spatial data"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#an-example.uhi",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#an-example.uhi",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "An example….UHI",
+    "text": "An example….UHI"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#an-example.uhi-1",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#an-example.uhi-1",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "An example….UHI",
+    "text": "An example….UHI\nRan 4 scenarios:\n\n\n\nOriginal (existing) development (from satellite imagery)\nProposed redevelopment as in the plan\nProposed redevelopment removing trees\nProposed redevelopment with trees covering the hottest pixels"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#an-example.uhi-2",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#an-example.uhi-2",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "An example….UHI",
+    "text": "An example….UHI\nRan 4 scenarios:\n\n\n\nOriginal (existing) development (from satellite imagery)\nProposed redevelopment as in the plan\nProposed redevelopment removing trees\nProposed redevelopment with trees covering the hottest pixels"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#an-example.uhi-3",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#an-example.uhi-3",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "An example….UHI",
+    "text": "An example….UHI"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#pedagogic-challenges",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#pedagogic-challenges",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Pedagogic challenges",
+    "text": "Pedagogic challenges\nPart 3: Data contamination / manipulation ?"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#data-contamination-manipulation",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#data-contamination-manipulation",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Data contamination / manipulation",
+    "text": "Data contamination / manipulation"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#data-contamination-manipulation-1",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#data-contamination-manipulation-1",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Data contamination / manipulation",
+    "text": "Data contamination / manipulation\nRussian tweets"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#ok-what-about-geographic-data-1",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#ok-what-about-geographic-data-1",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Ok, what about geographic data",
+    "text": "Ok, what about geographic data"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#what-is-spatial-data",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#what-is-spatial-data",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "What is spatial data?",
+    "text": "What is spatial data?\n\n\n\nThe earth is a 3D sphere (well, almost). It’s wider than it is tall\nIn order to locate a point on the surface of a sphere, we need a set of coordinates\nCoordinates will tell us how near to the top or bottom of the sphere we are, or how far around\nBut where do we start?"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#what-is-spatial-data-2",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#what-is-spatial-data-2",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "What is spatial data 2?",
+    "text": "What is spatial data 2?\n\n\nGeographic Coordinate Reference System\n\ntreats the globe as if it was a sphere divided into 360 equal parts called degrees\n\n\nProjected Coordinate Reference System\n\nflat, two-dimensional plane (through projecting a spheroid onto a 2D surface) giving it constant lengths, angles and areas\n\n\n\n\n\n\n\n\n\n\nCoordiante reference systems"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#simply",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#simply",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Simply",
+    "text": "Simply\n\nSpatial data is just like normal data except it has an extra “geometry column”"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#big-data",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#big-data",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Big data",
+    "text": "Big data\n\nBig geospatial data include datasets that are too large to be processed using traditional GIS tools\n\n\nSource: GIS Harvard"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#what-can-we-d",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#what-can-we-d",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "What can we d",
+    "text": "What can we d\nDuckDB\nPostGIS\nEarth Engine\nCARTO"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#what-can-we-do-about-it",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#what-can-we-do-about-it",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "What can we do about it?",
+    "text": "What can we do about it?\nParquet files\n\nWe are moving from row based storage to column based\nAbout 50x faster than a .csv\nIt groups our data.\n\nFor example a row group size of 2, puts rows all the data from 1 and 2 next to each other then we have 3! = GROUPS or PARTITION\nIf we have large data this means we can skip groups we don’t need"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#concepts",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#concepts",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Concepts",
+    "text": "Concepts\n\nYou may come across Arrow - this is an in-memory format, Parquet is a storage format\n\n \n\nIn the R for Data Science book a 9BG .csv is queried in\n\n11 seconds for standard code\n0.063 seconds using a parquet file! 100x faster"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#we-can-go-faster",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#we-can-go-faster",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "We can go faster!",
+    "text": "We can go faster!"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#section-12",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#section-12",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "",
+    "text": "Pedagogic challenges 2: urban systems science • Andy MacLachlan"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#duckdb",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#duckdb",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "DuckDB",
+    "text": "DuckDB\n\nDatabase management system\nColumnar data\nNo installation\nConvert our Parquet file to DuckDB and back again!\n\n\nto_duckdb() \nto_arrow()\n\n\nRegarding performance, parquet is 717 times faster than the same query on a csv file, and duckdb is 2808 times faster.\n\n\nSource: Christophe Nicault"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#problems",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#problems",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Problems",
+    "text": "Problems\n\nCurrently the support for spatial data is very limited limited\nsfarrow - can load and query the data but can’t do any analysis!"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#postgis",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#postgis",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "PostGIS",
+    "text": "PostGIS"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#postgis-1",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#postgis-1",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "PostGIS",
+    "text": "PostGIS"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#postgis-2",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#postgis-2",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "PostGIS",
+    "text": "PostGIS"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#postgresql-has-a-postgis-extention",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#postgresql-has-a-postgis-extention",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "PostgreSQL has a PostGIS extention",
+    "text": "PostgreSQL has a PostGIS extention"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#this-allows-the-geometry-column-and-spatial-quieres",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#this-allows-the-geometry-column-and-spatial-quieres",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "This allows the “geometry” column and spatial quieres",
+    "text": "This allows the “geometry” column and spatial quieres\nMaking random points in polygons\n\n\n\n\n\n5 million random points\n\nQGIS = 226 seconds\nPostGIS = 18 seconds\n\n\nSource: Why should you care about PostGIS? — A gentle introduction to spatial databases"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#urban-systems-science-5",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#urban-systems-science-5",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Urban systems science",
+    "text": "Urban systems science"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#urban-systems-science-6",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#urban-systems-science-6",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Urban systems science",
+    "text": "Urban systems science"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#postgresql-has-a-postgis-extention-this-allows-the-geometry-column-and-spatial-quieres",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#postgresql-has-a-postgis-extention-this-allows-the-geometry-column-and-spatial-quieres",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "PostgreSQL has a PostGIS extention ##This allows the “geometry” column and spatial quieres",
+    "text": "PostgreSQL has a PostGIS extention ##This allows the “geometry” column and spatial quieres"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#part-2-spatial-data",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#part-2-spatial-data",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Part 2: Spatial data",
+    "text": "Part 2: Spatial data"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#part-1-urban-systems-science",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#part-1-urban-systems-science",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Part 1: Urban systems science ?",
+    "text": "Part 1: Urban systems science ?"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#part-3-data-contamination-manipulation",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#part-3-data-contamination-manipulation",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Part 3: Data contamination / manipulation ?",
+    "text": "Part 3: Data contamination / manipulation ?\nPedagogic challenges\n\nData contamination / manipulation\nBig data\nReproducibility"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#pedagogic-challenges-1",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#pedagogic-challenges-1",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Pedagogic challenges",
+    "text": "Pedagogic challenges\nPart 4: Big Data"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#pedagogic-challenges-2",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#pedagogic-challenges-2",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Pedagogic challenges",
+    "text": "Pedagogic challenges\nPart 5: Reproducibility"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#postgres",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#postgres",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Postgres",
+    "text": "Postgres"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#starting",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#starting",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Starting",
+    "text": "Starting\n\nDespite all these tools we must start with the basics.\nOften this is in Quantum GIS (free) or ArcMap($)\nWe will be exploring QGIS in the workshop later"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#how-to-teach",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#how-to-teach",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "How to teach…",
+    "text": "How to teach…\n\nData / analysis criticality\nBias awareness\nReproducibility"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#part-6-teaching-criticality-data-bias-reproducibility",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#part-6-teaching-criticality-data-bias-reproducibility",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Part 6: Teaching criticality, data bias, reproducibility",
+    "text": "Part 6: Teaching criticality, data bias, reproducibility\n\n\n\n\n\nLead by example\n\n\n\n\n\n\n\n1b. Listen to Alumni / employers\n\n\n\n\n\n\n1c. Learn by doing\n\n\n\n\n\n\n\nDon’t assess it, make it mandatory for the assessment*"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#lead-by-example",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#lead-by-example",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "1. Lead by example",
+    "text": "1. Lead by example\n\nTraditional labs and were distributed in pdfs, word documents and powerpoints.\nUsed ArcGIS 💰"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#b.-listen-to-alumni-employers",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#b.-listen-to-alumni-employers",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "1b. Listen to Alumni / employers",
+    "text": "1b. Listen to Alumni / employers"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#c.-design-and-output-1",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#c.-design-and-output-1",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "1c. Design and output",
+    "text": "1c. Design and output\nPart 2: GIS analysis\nIn part 2 we shift from subject based to problem based learning….\nEach practical answers a question….\n\n\nWhat are the factors that might lead to variation in Average GCSE point scores across the city?"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#an-example.urban-heat-island-effect-uhi",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#an-example.urban-heat-island-effect-uhi",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "An example….Urban Heat Island effect (UHI)",
+    "text": "An example….Urban Heat Island effect (UHI)\nFremantle Woolstore, Western Australia"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#an-example..urban-heat-island-effect-uhi",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#an-example..urban-heat-island-effect-uhi",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "An example..Urban Heat Island effect (UHI)",
+    "text": "An example..Urban Heat Island effect (UHI)\nFremantle Woolstore, Western Australia"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#an-example..urban-heat-island-effect",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#an-example..urban-heat-island-effect",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "An example..Urban Heat Island effect",
+    "text": "An example..Urban Heat Island effect\nFremantle Woolstore, Western Australia"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#who-has-made-our-boundary-data-1",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#who-has-made-our-boundary-data-1",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Who has made our boundary data?",
+    "text": "Who has made our boundary data?\nRedlining\n\n\n\n1930s – American Home Owner’s Loan Corporation – prevent missed payments…residential security maps based on race\n\nPeople abandon areas\nCan’t refinance\nLess property tax for services\nSocial equity issues remain\n1968 Fair Housing Act\n\n\n\n\n\n\nLos Angeles Redlining"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#who-has-made-our-boundary-data-2",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#who-has-made-our-boundary-data-2",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Who has made our boundary data?",
+    "text": "Who has made our boundary data?\nGerrymandering\n\n\nEvery 10 years electoral districts are re-drawn “redistricting”– Thomas Hofeller (republican) = PACK and CRACK\n\nPACK = put all the democrat voters in 1 district\nCRACK = sprinkle them out so they never have majority\n\n\n\n\n\nGerrymandering"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#why-are-they-large",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#why-are-they-large",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Why are they large?",
+    "text": "Why are they large?\nRaster\n\nLandsat satellite data: 400 scenes of Earth a day, revising each location every 16 days\n\nEach scene is about 1GB\nWe’d used Google Earth Engine - not considered here\n\n\nVector\n\nNew York City Taxi and Limousine Commission (TLC) all records from Yellow and Green Cabs\n\n150GB, 1.2 billion records\n\nOpen Street Map\n\n1764.5GB when uncompressed"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#notes",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#notes",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Notes",
+    "text": "Notes\n\nAll (parquet and DuckDB) make sure of dplyr ! select(), filter(), groupby() = direct integration with R\nCurrently the support for spatial data is very limited\nsfarrow - can load and query the data but can’t do any analysis!"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#postgres-1",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#postgres-1",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Postgres",
+    "text": "Postgres\n\nPostgreSQL = object-relational database\n\n\n\n\nDVD Rental Model"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#system-thinker",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#system-thinker",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "System thinker",
+    "text": "System thinker\n\nTools for Systems Thinkers: The 6 Fundamental Concepts of Systems Thinking"
+  },
+  {
+    "objectID": "Pedagogic Challenges 2 Urban Systems Science.html#postgres-object-relational-database",
+    "href": "Pedagogic Challenges 2 Urban Systems Science.html#postgres-object-relational-database",
+    "title": "Pedagogic challenges 2: urban systems science",
+    "section": "Postgres = object-relational database",
+    "text": "Postgres = object-relational database\n\n\n\nDVD Rental Model"
+  },
+  {
+    "objectID": "Week2XRG.html#talk-overview",
+    "href": "Week2XRG.html#talk-overview",
+    "title": "Week 2: XaringanPrac • LWX",
+    "section": "Talk overview",
+    "text": "Talk overview\n\nSensor\n\nPart 1: Summary\nPart 2: Application\nPart 3: Reflection"
+  },
+  {
+    "objectID": "Week2XRG.html#who-am-i",
+    "href": "Week2XRG.html#who-am-i",
+    "title": "Week 2: XaringanPrac • LWX",
+    "section": "Who am i",
+    "text": "Who am i\n\n\n\nStudent in Urban Spatial Science at CASA, UCL\nlearn MSc modules in:\n\nGeographic information systems and science\nRemotely sensing cities and environments\n\nskills:\n\nprogramming languages such as java, python, R, sql…\nArcgis, Qgis, Arcgis online"
+  },
+  {
+    "objectID": "Week2XRG.html#part-1-summary",
+    "href": "Week2XRG.html#part-1-summary",
+    "title": "Week 2: XaringanPrac • LWX",
+    "section": "Part 1: Summary",
+    "text": "Part 1: Summary"
+  },
+  {
+    "objectID": "Week2XRG.html#what-do-we-mean",
+    "href": "Week2XRG.html#what-do-we-mean",
+    "title": "Week 2: XaringanPrac • LWX",
+    "section": "What do we mean",
+    "text": "What do we mean\n• The summary criterion will refer to the summary of the sensor you have selected – Landset\nLandsat imagery\n\nLandsat imagery is the longest free temporal image repository of consistent medium resolution data. It collects data at each point on Earth each every 16 days (temporal resolution) in a raster grid composed of 30 by 30 m cells (spatial resolution). Geographical analysis and concepts are becoming ever more entwined with remote sensing and Earth observation.\n\n\nSource: CASA0023\n\nAccess the data\n\nTo access the Landsat data we will use in this practical you can need to sign up for a free account at: https://earthexplorer.usgs.gov/\n\n\nSource: usgs"
+  },
+  {
+    "objectID": "Week2XRG.html#section",
+    "href": "Week2XRG.html#section",
+    "title": "Week 2: XaringanPrac • LWX",
+    "section": "",
+    "text": "image for Landset (website language: Chinese)"
+  },
+  {
+    "objectID": "Week2XRG.html#section-1",
+    "href": "Week2XRG.html#section-1",
+    "title": "Week 2: XaringanPrac • LWX",
+    "section": "",
+    "text": "Landsat 8\n\nLandsat 8 is a satellite in the Landsat program, which is a series of Earth-observing satellites operated by the United States Geological Survey (USGS) and NASA. Landsat 8, launched in 2013, is the latest satellite in this series, and it carries the Operational Land Imager (OLI) and Thermal Infrared Sensor (TIRS) instruments\n\n\nSource: UK Government\n\nLandsat 1\n\nLandsat 1, was launched on July 23, 1972. It marked the beginning of the Landsat program, which has been instrumental in Earth observation and remote sensing\n\n\nSource: Wikipedia"
+  },
+  {
+    "objectID": "Week2XRG.html#urban-systems-science",
+    "href": "Week2XRG.html#urban-systems-science",
+    "title": "Week 2: XaringanPrac • LWX",
+    "section": "Urban systems science",
+    "text": "Urban systems science"
+  },
+  {
+    "objectID": "Week2XRG.html#urban-systems-science-1",
+    "href": "Week2XRG.html#urban-systems-science-1",
+    "title": "Week 2: XaringanPrac • LWX",
+    "section": "Urban systems science",
+    "text": "Urban systems science\n \nUrban Systems: Cities [or functions within cities] that can be considered linked together [there is a relationship between them]\n\n\n+"
+  },
+  {
+    "objectID": "Week2XRG.html#urban-systems-science-2",
+    "href": "Week2XRG.html#urban-systems-science-2",
+    "title": "Week 2: XaringanPrac • LWX",
+    "section": "Urban systems science",
+    "text": "Urban systems science\n \nUrban Systems: Cities [or functions within cities] that can be considered linked together [there is a relationship between them]\n\n\n+\n\n\n \nUrban Science: Urban issues and problems"
+  },
+  {
+    "objectID": "Week2XRG.html#urban-systems-science-3",
+    "href": "Week2XRG.html#urban-systems-science-3",
+    "title": "Week 2: XaringanPrac • LWX",
+    "section": "Urban systems science",
+    "text": "Urban systems science\n \nUrban Systems: Cities [or functions within cities] that can be considered linked together [there is a relationship between them]\n\n\n+\n\n\n \nUrban Science: Urban issues and problems\n\n\n=\n\n\n \nSmart Cities: networks and services are made more efficient with the use of digital solutions for the benefit of its inhabitants and business.\n\nSource: Smart Cities, European Comission"
+  },
+  {
+    "objectID": "Week2XRG.html#urban-system-science-approach",
+    "href": "Week2XRG.html#urban-system-science-approach",
+    "title": "Week 2: XaringanPrac • LWX",
+    "section": "Urban system science approach:",
+    "text": "Urban system science approach:\n\n\n\nUpdated from Grolemund & Wickham's classis R4DS schematic, envisioned by Dr. Julia Lowndes for her 2019 useR! keynote talk and illustrated by Allison Horst. Source: Allison Horst data science and stats illustrations\n\n\n\nThe same as regular data science but with spatial data"
+  },
+  {
+    "objectID": "Week2XRG.html#an-example..urban-heat-island-effect",
+    "href": "Week2XRG.html#an-example..urban-heat-island-effect",
+    "title": "Week 2: XaringanPrac • LWX",
+    "section": "An example..Urban Heat Island effect",
+    "text": "An example..Urban Heat Island effect\nFremantle Woolstore, Western Australia"
+  },
+  {
+    "objectID": "Week2XRG.html#an-example.uhi",
+    "href": "Week2XRG.html#an-example.uhi",
+    "title": "Week 2: XaringanPrac • LWX",
+    "section": "An example….UHI",
+    "text": "An example….UHI"
+  },
+  {
+    "objectID": "Week2XRG.html#an-example.uhi-1",
+    "href": "Week2XRG.html#an-example.uhi-1",
+    "title": "Week 2: XaringanPrac • LWX",
+    "section": "An example….UHI",
+    "text": "An example….UHI\nRan 4 scenarios:\n\n\n\nOriginal (existing) development (from satellite imagery)\nProposed redevelopment as in the plan\nProposed redevelopment removing trees\nProposed redevelopment with trees covering the hottest pixels"
+  },
+  {
+    "objectID": "Week2XRG.html#how-smart-are-cities",
+    "href": "Week2XRG.html#how-smart-are-cities",
+    "title": "Week 2: XaringanPrac • LWX",
+    "section": "How smart are cities?",
+    "text": "How smart are cities?"
+  },
+  {
+    "objectID": "Week2XRG.html#part-2-application",
+    "href": "Week2XRG.html#part-2-application",
+    "title": "Week 2: XaringanPrac • LWX",
+    "section": "Part 2: Application",
+    "text": "Part 2: Application"
+  },
+  {
+    "objectID": "Week2XRG.html#what-is-application-of-the-sensor",
+    "href": "Week2XRG.html#what-is-application-of-the-sensor",
+    "title": "Week 2: XaringanPrac • LWX",
+    "section": "What is Application of the sensor?",
+    "text": "What is Application of the sensor?\n\n\n\nThe earth is a 3D sphere (well, almost). It’s wider than it is tall\nIn order to locate a point on the surface of a sphere, we need a set of coordinates\nCoordinates will tell us how near to the top or bottom of the sphere we are, or how far around\nBut where do we start?"
+  },
+  {
+    "objectID": "Week2XRG.html#what-is-spatial-data-2",
+    "href": "Week2XRG.html#what-is-spatial-data-2",
+    "title": "Week 2: XaringanPrac • LWX",
+    "section": "What is spatial data 2?",
+    "text": "What is spatial data 2?\n\n\nGeographic Coordinate Reference System\n\ntreats the globe as if it was a sphere divided into 360 equal parts called degrees\n\n\nProjected Coordinate Reference System\n\nflat, two-dimensional plane (through projecting a spheroid onto a 2D surface) giving it constant lengths, angles and areas\n\n\n\n\n\n\n\n\n\n\nCoordiante reference systems"
+  },
+  {
+    "objectID": "Week2XRG.html#simply",
+    "href": "Week2XRG.html#simply",
+    "title": "Week 2: XaringanPrac • LWX",
+    "section": "Simply",
+    "text": "Simply\n\nSpatial data is just like normal data except it has an extra “geometry column”"
+  },
+  {
+    "objectID": "Week2XRG.html#limitation",
+    "href": "Week2XRG.html#limitation",
+    "title": "Week 2: XaringanPrac • LWX",
+    "section": "Limitation",
+    "text": "Limitation\nPart 3: reflection?"
+  },
+  {
+    "objectID": "Week2XRG.html#data-contamination-manipulation",
+    "href": "Week2XRG.html#data-contamination-manipulation",
+    "title": "Week 2: XaringanPrac • LWX",
+    "section": "Data contamination / manipulation",
+    "text": "Data contamination / manipulation"
+  },
+  {
+    "objectID": "Week2XRG.html#who-has-made-our-boundary-data",
+    "href": "Week2XRG.html#who-has-made-our-boundary-data",
+    "title": "Week 2: XaringanPrac • LWX",
+    "section": "Who has made our boundary data?",
+    "text": "Who has made our boundary data?\nRedlining\n\n\n\n1930s – American Home Owner’s Loan Corporation – prevent missed payments…residential security maps based on race\n\nPeople abandon areas\nCan’t refinance\nLess property tax for services\nSocial equity issues remain\n1968 Fair Housing Act\n\n\n\n\n\n\nLos Angeles Redlining"
+  },
+  {
+    "objectID": "Week2XRG.html#who-has-made-our-boundary-data-1",
+    "href": "Week2XRG.html#who-has-made-our-boundary-data-1",
+    "title": "Week 2: XaringanPrac • LWX",
+    "section": "Who has made our boundary data?",
+    "text": "Who has made our boundary data?\nGerrymandering\n\n\nEvery 10 years electoral districts are re-drawn “redistricting”– Thomas Hofeller (republican) = PACK and CRACK\n\nPACK = put all the democrat voters in 1 district\nCRACK = sprinkle them out so they never have majority\n\n\n\n\n\nGerrymandering"
+  },
+  {
+    "objectID": "Week2XRG.html#section-3",
+    "href": "Week2XRG.html#section-3",
+    "title": "Week 2: XaringanPrac • LWX",
+    "section": "",
+    "text": "“Redistricting is democracy at work” - Tom Hofeller"
+  },
+  {
+    "objectID": "Week2XRG.html#conclusion",
+    "href": "Week2XRG.html#conclusion",
+    "title": "Week 2: XaringanPrac • LWX",
+    "section": "Conclusion",
+    "text": "Conclusion\n\nDespite these limitations, Landsat 8 remains a valuable tool for a wide range of applications, contributing significantly to our understanding of Earth’s dynamics and changes over time.\n\n\n\n\nWeek 2: XaringanPrac • LWX"
+  },
+  {
+    "objectID": "Week2XRG.html#what-is-application-of-the-landset-8",
+    "href": "Week2XRG.html#what-is-application-of-the-landset-8",
+    "title": "Week 2: XaringanPrac • LWX",
+    "section": "What is Application of the Landset 8?",
+    "text": "What is Application of the Landset 8?\n\n\n\nLand Use Monitoring: Tracks changes in land use and cover over time.\nEnvironmental Monitoring: Captures data on natural disasters and assesses environmental impact.\nAgricultural Management: Monitors crop health, aids precision agriculture, and estimates yields.\nWater Resources Management: Tracks water bodies, assesses water quality, and manages water resources.\nForestry: Monitors forest cover, detects deforestation, and assesses forest health.\nUrban Planning: Assists in monitoring urban growth, infrastructure changes, and their environmental impact.\nClimate Studies: Contributes to climate research by providing data on land surface temperature and snow cover.\nDisaster Response: Provides high-resolution images for assessing damage caused by natural disasters.\nScientific Research: Supports research in ecology, geology, hydrology, and atmospheric sciences.\nMapping and Cartography: Essential for creating detailed and up-to-date maps, including land cover and terrain features."
+  },
+  {
+    "objectID": "Week2XRG.html#what-is-general-application-of-landset-8",
+    "href": "Week2XRG.html#what-is-general-application-of-landset-8",
+    "title": "Week 2: XaringanPrac • LWX",
+    "section": "What is general application of Landset 8?",
+    "text": "What is general application of Landset 8?\nOverall\nLandsat 8, launched in 2013, is a pivotal Earth-observing satellite widely utilized for applications such as monitoring land use changes, assessing environmental impact, managing agriculture by monitoring crop health and yields, tracking water resources, evaluating forestry conditions, aiding urban planning, contributing to climate studies, supporting disaster response with high-resolution imagery, facilitating scientific research across various disciplines, and serving as a crucial tool in mapping and cartography for detailed and up-to-date geographic information."
+  },
+  {
+    "objectID": "Week2XRG.html#application-of-landset-8",
+    "href": "Week2XRG.html#application-of-landset-8",
+    "title": "Week 2: XaringanPrac • LWX",
+    "section": "application of Landset 8",
+    "text": "application of Landset 8"
+  },
+  {
+    "objectID": "Week2XRG.html#application-of-landset-8-1",
+    "href": "Week2XRG.html#application-of-landset-8-1",
+    "title": "Week 2: XaringanPrac • LWX",
+    "section": "application of Landset 8",
+    "text": "application of Landset 8\n \nLand Use Monitoring: Landsat 8 imagery is widely used to monitor changes in land use and land cover over time. This is crucial for urban planning, agriculture, forestry, and environmental management\n\n\n+"
+  },
+  {
+    "objectID": "Week2XRG.html#application-of-landset-8-2",
+    "href": "Week2XRG.html#application-of-landset-8-2",
+    "title": "Week 2: XaringanPrac • LWX",
+    "section": "application of Landset 8",
+    "text": "application of Landset 8\n \nLand Use Monitoring: Landsat 8 imagery is widely used to monitor changes in land use and land cover over time. This is crucial for urban planning, agriculture, forestry, and environmental management\n\n\n+\n\n\n \nEnvironmental Monitoring: The satellite is used to monitor environmental changes, including deforestation, desertification, and the impacts of natural disasters such as floods and wildfires."
+  },
+  {
+    "objectID": "Week2XRG.html#application-of-landset-8-3",
+    "href": "Week2XRG.html#application-of-landset-8-3",
+    "title": "Week 2: XaringanPrac • LWX",
+    "section": "application of Landset 8",
+    "text": "application of Landset 8\n \nLand Use Monitoring: Landsat 8 imagery is widely used to monitor changes in land use and land cover over time. This is crucial for urban planning, agriculture, forestry, and environmental management\n\n\n+\n\n\n \nEnvironmental Monitoring: The satellite is used to monitor environmental changes, including deforestation, desertification, and the impacts of natural disasters such as floods and wildfires.\n\n\n=\n\n\n \nUrban Planning: Landsat 8 data is employed in urban planning and development. It aids in monitoring urban growth, assessing infrastructure changes, and studying the impact of urbanization on the environment.\n\nSource: Smart Cities, European Comission"
+  },
+  {
+    "objectID": "Week2XRG.html#overall",
+    "href": "Week2XRG.html#overall",
+    "title": "Week 2: XaringanPrac • LWX",
+    "section": "Overall:",
+    "text": "Overall:\nThe continuous acquisition of data by Landsat 8, along with its moderate spatial resolution (30 meters for most bands), spectral capabilities, and global coverage, makes it a versatile tool for a wide range of applications in Earth observation and remote sensing."
+  },
+  {
+    "objectID": "Week2XRG.html#limitations",
+    "href": "Week2XRG.html#limitations",
+    "title": "Week 2: XaringanPrac • LWX",
+    "section": "Limitations:",
+    "text": "Limitations:\n\nSpatial Resolution: While Landsat 8 provides valuable data, its spatial resolution (30 meters for most bands) may not be sufficient for certain applications requiring very high detail, such as urban planning at a local scale.\nTemporal Resolution: Landsat 8 has a revisit time of 16 days, which means it may not capture events or changes on a daily or weekly basis. For some applications, more frequent revisit times are necessary.\nLimited Spectral Bands: Landsat 8 has fewer spectral bands compared to some other remote sensing satellites, which limits its ability to capture certain types of information, especially in the infrared and shortwave infrared regions."
+  }
+]
